@@ -42,3 +42,7 @@ ENV/
 *.cache
 *.json
 .DS_Store
+
+
+# Example codes
+examples/
