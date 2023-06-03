@@ -19,6 +19,7 @@ from django.urls import path
 from django.urls import include
 from coolsite import settings
 from django.conf.urls.static import static
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('women.urls')),
