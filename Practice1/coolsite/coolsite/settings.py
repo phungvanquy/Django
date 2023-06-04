@@ -136,4 +136,5 @@ MEDIA_URL = '/media/'
 
 # # Just for funny testing
 # LOGIN_URL = '/admin/'
-# LOGIN_REDIRECT_URL = '/home/'
+
+# LOGIN_REDIRECT_URL = '/'
